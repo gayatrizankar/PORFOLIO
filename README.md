@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # PORFOLIO
 THIS IS MY FRIST PORFOLIO WEBSITE
+=======
+# Porfolio
+>>>>>>> e869025e371de7e232630932a11197c983bf7ab1
